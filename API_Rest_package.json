@@ -1,0 +1,19 @@
+{
+    "name": "Jeux",
+    "version": "1.0.0",
+    "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://anydas.fr/ufr-blois/projet-2/groupe-9.git"
+    },
+    "author": "ania et kenza",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2",
+      "sequelize": "^6.25.8"
+    }
+  }
